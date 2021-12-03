@@ -1,0 +1,139 @@
+---
+title: "Kailey Whelan"
+author: Kailey Whelan
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i>kailey.whelan@tufts.edu
+- <i class="fa fa-github"></i> [github.com/kailey-whelan/](https://github.com/kailey-whelan/)
+- <i class="fa fa-phone"></i> +1 123-456-7891
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Advanced **Excel** 
+
+- Data Analytics and Machine learning using **Python**
+
+- Data Visualization in **Tableau**
+
+- Basic **SQL** 
+
+- Language Skills:  Advanced **French**, Intermediate **Russian**, Basic **Italian** and **German**
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Kailey Whelan {#title}
+--------------------------------------------------------------------------------
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+MS Candidate in Engineering Management
+
+Medford, MA
+
+2019--Current
+
+
+### State University of New York at Geneseo
+
+B.A. in Interntational Relations
+
+Geneseo, NY 
+
+2009--2013
+
+
+
+Professional Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Program Coordinator
+
+Fletcher School, Tufts University
+
+Medford, MA
+
+2019--Present
+
+- Data collection, analysis and management 
+- Manage communications 
+
+
+
+Selected Project Experience {data-icon=computer}
+--------------------------------------------------------------------------------
+
+### Operations/Supply Chain Management for Commonwealth Alternative Care
+
+The Gordon Institute, Tufts University
+
+Medford, MA
+
+Fall 2020--Spring 2021
+
+<!--::: concise-->
+- Developed analysis equipment analysis for purchases of new machinery as part of a five-year scale-up plan.
+- Reviewed product line efficiency and identified potential bottlenecks
+<!--:::-->
+
+
+
+
+### Summer Practicum with Integrated Project Management (IPM)
+
+The Gordon Institute, Tufts University
+
+Medford, MA
+
+Summer 2020
+
+- Evaluated IPM's process for managing client needs in the Food & Beverage space
+- Created a detailed process document for IPM to identify key factors in increasing their clients innovation
+
+
+
+Selected Presentations {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+### An Examination of Massachusetts UFO Sightings
+Presented an in-depth analysis of UFO sightings based on a repository of data from the National UFO Reporting Center using Python 
+
+Medford, MA
+
+Fall 2021
+
+
